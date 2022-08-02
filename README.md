@@ -1,9 +1,8 @@
 # Sobre mim
 
-## Editando o perfil
-
 - 👋 Olá, meu nome é @prtakada
-- :+1: meu e-mail é paulo_takada@escola.pr.gov.br
+- :+1: Meu e-mail é paulo_takada@escola.pr.gov.br
+- :+1: Dúvidas pode me chamar no whatswapp  
 
 
 <!---
